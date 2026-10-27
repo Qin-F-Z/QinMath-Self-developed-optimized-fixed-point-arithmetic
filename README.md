@@ -1,3 +1,6 @@
+This open-source project is available for users to download and use at their own discretion. Our team assumes no direct, indirect or derivative liability or disputes arising from the use of the code in this project.
+--------------------------------------------------------------------------------------------------------------------------------------
+
 # QinMath 
 
 ## What It Does
